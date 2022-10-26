@@ -16,17 +16,17 @@ lang: en
 prefer_datetime_locale:
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: Europe/Istanbul
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: Emre Serdar Akinci                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Gamer since 1994, Game developer since 2012. Had 3 published indie titles so far. I worked on various parts of these projects. I call myself a generalist in this regard. Also a music and cooking enthusiast.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  A developer's blog about software development, work, life, game industry and maybe personal opinions about stuff. 
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://esakinci.github.io'
@@ -73,7 +73,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:   # [light|dark]
+theme_mode: dark  # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
