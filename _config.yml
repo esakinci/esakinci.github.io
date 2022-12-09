@@ -24,11 +24,11 @@ timezone: Europe/Istanbul
 title: Emre Serdar Akinci                          # the main title
 
 tagline: Gamer since 1994, Game developer since 2012. 
-  I have 3 published indie titles which worked on various disciplines of these projects. I call myself a generalist in this regard.
+  I have worked on various subjects under game development. I call myself a generalist in this regard.
   Also, I am a music and cooking enthusiast.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A developer's blog about software development, work, life, game industry and maybe personal opinions about stuff. 
+  A developer's blog about software development, game development, game industry, work, life, hobbies, and personal opinions. 
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://esakinci.github.io'
