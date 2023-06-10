@@ -2,7 +2,7 @@
 layout: post
 title: Test Draft
 author: esakinci
-date: 
+#date: 
 categories: []
 tags: [] 
 ---
