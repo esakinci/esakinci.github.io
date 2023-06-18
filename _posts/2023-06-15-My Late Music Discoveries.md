@@ -9,11 +9,11 @@ tags: [review]
 I want to share with you some of my music discovery highlights trough 5-6 years. Since this is my first post about this kind of content, the list has plenty items from various genres.
 
 #### [She Past Away](https://youtu.be/6DM_MnNgZkc)
-One of my latest discoveries and the most listened band while I work these days. It is a shame that I've discovered them so late since they are Turkish! This is a post-punk band with dark vibes. Their music is special for me since I've met and liked this genre thanks to them. Their music is exactly as they state "It is driving, it is mesmerizing. It is a haunt."
+One of my latest discoveries and the most listened band while I work these days. It is a shame that I've discovered them so late although they are Turkish! This is a post-punk band with dark vibes. Their music is special for me since I've met and liked this genre thanks to them. Their music is exactly as they state "It is driving, it is mesmerizing. It is a haunt."
 #### [Altın Gün](https://youtu.be/-UoDUl5HC18)
 Another great Turkish band but this time with 70's Turkish rock style! I have to confess that I am an outsider to Turkish mainstream music knowledge. Yet I greatly respect this band. They have pure love for this culture and sound. And they execute their work flawlessly! 
 #### [Haken](https://youtu.be/XNT_9mmQaS8)
-When I first discovered [Opeth](https://youtu.be/54O-jvjamvo) back then, I instantly fell in love with progressive-metal genre. Since then I've listened bunch of different bands but this band shook my ears again and revived my excitement for this genre!
+When I first discovered [Opeth](https://youtu.be/54O-jvjamvo), I instantly fell in love with progressive-metal genre. Since then I've listened bunch of different bands but this band shook my ears again and revived my excitement for this genre!
 #### [Polyphia](https://youtu.be/Z5NoQg8LdDk)
 WOW! Accumulation of talents and genre background in this band is crazy! The first song I listened to from them was "Playing God". Spanish guitar, dubstep, rock, and electronic all in one place! I was speechless.
 #### [All Them Witches](https://youtu.be/8HEe1iT3oHo)
